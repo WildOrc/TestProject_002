@@ -254,7 +254,6 @@ function buildConsoleCommands (keyList: any) {
 
       consoleCommands[priority].method = method;
       consoleCommands[priority].endpoint = endpoint;
-      // consoleCommands[priority][key] = parsedValue;
     }
   }
 
